@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Mi nombre es Alejo Beltran</h1>
 <h3 align="center">Soy un programador apasionado</h3>
 
-- 💬 Preguntame sobre: **ReactJS,NextJS,Angular,TypeScript,JavaScript,HTML,CSS,Tailwind,Bootstrap,MySql,MongoDB,Java,Spring Boot,PHP**
+- 💬 Preguntame sobre: **ReactJS, NextJS, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind, Bootstrap, MySql, MongoDB, Java, Spring Boot, PHP**
 
 - 📫 Como llegar a mi: **beltrannicolasalejo@gmail.com**
 
